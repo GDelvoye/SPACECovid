@@ -1,0 +1,2 @@
+# SPACECovid
+Covid propagation model
